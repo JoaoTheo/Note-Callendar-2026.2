@@ -1,4 +1,4 @@
-# Note-Callendar
+# 📅 Note-Callendar
 Repositório para a matéria de desenvolvimento ágil
 AS63C - Desenvolvimento Ágil - N13 (2026_02)
 
