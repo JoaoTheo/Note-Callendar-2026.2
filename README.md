@@ -5,9 +5,9 @@ AS63C - Desenvolvimento Ágil - N13 (2026_02)
 --- 
 
 Membros
-- João Theodoro
-- [Lucas Kenichi Fukuda] (https://github.com/lucas1234124)
-- Nilton Santos Ribeiro Junior
+- [João Theodoro](https://github.com/JoaoTheo)
+- [Lucas Kenichi Fukuda](https://github.com/lucas1234124)
+- [Nilton Santos Ribeiro Junior](https://github.com/Niltin09)
 
 ---
 
