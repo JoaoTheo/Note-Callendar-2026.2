@@ -6,7 +6,7 @@
 | :---: | :--- | :---: | :---: |
 | RNF01 | O usuário deve conseguir agendar uma sala em até 4 etapas. | Usabilidade | Alta |
 | RNF02 | O sistema deve mostrar as salas disponíveis em até 2 segundos. | Desempenho | Alta |
-| RNF03 | O sistema deve funcionar em computadores e celulares, adaptando a tela ao tamanho do dispositivo. | Compatibilidade | Alta |
+| RNF03 | O sistema deve funcionar em computadores e celulares, adaptando a tela ao tamanho do dispositivo. | Compatibilidade | Média |
 
 <div align="center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
