@@ -1,15 +1,14 @@
-# 1. Requisitos Não Funcionais
+## 1. Requisitos Não Funcionais
 
-<p align="justify">A <i>Tabela 2</i> a seguir contém os <b>Requisitos Não Funcionais (RNF)</b> do sistema de agendamento de salas da faculdade, elicitados utilizando a técnica de brainstorming.</p>
+A *Tabela 2* a seguir contém os **Requisitos Não Funcionais (RNF)** do sistema Note Callendar, voltado ao mapeamento de tarefas e à gestão ágil de tempo, elicitados utilizando a técnica de brainstorming.
 
 | ID | Requisito | Categoria | Prioridade |
-| :---: | :--- | :---: | :---: |
-| RNF01 | O usuário deve conseguir agendar uma sala em até 4 etapas. | Usabilidade | Alta |
-| RNF02 | O sistema deve mostrar as salas disponíveis em até 2 segundos. | Desempenho | Alta |
+|:--:|-----------|:---------:|:----------:|
+| RNF01 | O usuário deve conseguir criar uma tarefa, informando título, data e tipo, em até 3 interações (cliques ou toques) a partir da tela principal. | Usabilidade | Alta |
+| RNF02 | O sistema deve carregar a visualização de tarefas e as métricas por tipo de tarefa em até 2 segundos, em condições normais de uso. | Desempenho | Alta |
 | RNF03 | O sistema deve funcionar em computadores e celulares, adaptando a tela ao tamanho do dispositivo. | Compatibilidade | Média |
 
-<div align="center">
-<p>Tabela 2: Requisitos Não Funcionais</p>
+<p align="center">Tabela 2: Requisitos Não Funcionais</p>
 </div>
 
 # 2. Referências
