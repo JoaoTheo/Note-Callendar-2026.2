@@ -1,6 +1,6 @@
 ## 1. Requisitos Não Funcionais
 
-A *Tabela 2* a seguir contém os **Requisitos Não Funcionais (RNF)** do sistema Note Callendar, voltado ao mapeamento de tarefas e à gestão ágil de tempo, elicitados utilizando a técnica de brainstorming.
+A *Tabela 2* a seguir contém os **Requisitos Não Funcionais (RNF)** do sistema Note Callendar, elicitados utilizando a técnica de brainstorming.
 
 | ID | Requisito | Categoria | Prioridade |
 |:--:|-----------|:---------:|:----------:|
