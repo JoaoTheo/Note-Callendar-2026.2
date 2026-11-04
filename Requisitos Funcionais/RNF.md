@@ -1,6 +1,6 @@
 # 1. Requisitos Não Funcionais
 
-<p align="justify">A <i>Tabela 2</i> a seguir contém os Requisitos Não Funcionais (RNF) do sistema Note Callendar, elicitados utilizando a técnica de brainstorming[cite: 6] e enriquecidos com base nas histórias de usuário.</p>
+<p align="justify">A <i>Tabela 2</i> a seguir contém os Requisitos Não Funcionais (RNF) do sistema Note Callendar.</p>
 
 | ID   |                                                                          Requisito                                                                          |    Categoria    | Prioridade |
 | :--: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :--------: |
