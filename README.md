@@ -18,3 +18,10 @@ O Note Callendar é um sistema de agendas que faz mapeamento de tarefas e gestã
 - **Gestão de Rotina:** Criação, edição e organização de tarefas para facilitar o dia a dia.
 - **Visualização Otimizada:** Interface desenvolvida para proporcionar ao usuário uma boa visualização de tarefas a serem realizadas.
 - **Métricas e Relatórios:** Geração de dados informando as atividades mais executadas, permitindo metrificar os tipos de tarefa para uma gestão de tempo mais eficiente.
+
+---
+
+## 💻 Protótipo
+
+[Prototipação de alta fidelidade no figma](https://www.figma.com/design/fK6r5tL1U0GDgxc0kc5Sms/Note-Callendar-%C2%B7-Prot%C3%B3tipo?node-id=0-1&t=LGncyRsP8h3auUhn-1)
+
