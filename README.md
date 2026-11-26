@@ -25,3 +25,6 @@ O Note Callendar é um sistema de agendas que faz mapeamento de tarefas e gestã
 
 [Prototipação de alta fidelidade no figma](https://www.figma.com/design/fK6r5tL1U0GDgxc0kc5Sms/Note-Callendar-%C2%B7-Prot%C3%B3tipo?node-id=0-1&t=LGncyRsP8h3auUhn-1)
 
+---
+
+## ▶️ [Vídeo do Protótipo](https://drive.google.com/drive/folders/11NC56ywmT-IyWqRYuC0TSRCPY7w4Id1N?usp=sharing)
